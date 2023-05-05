@@ -1,0 +1,38 @@
+{
+  "devices": [
+    {
+      "type": "sensor",
+      "widgetName": "ddqsdsdsd",
+      "topic": "ddssddsds",
+      "initValue": "1",
+      "on": "",
+      "off": "",
+      "maxValue": "33",
+      "unit": "a",
+      "id": 2
+    },
+    {
+      "type": "switch",
+      "widgetName": "test",
+      "topic": "topictest",
+      "initValue": "1",
+      "on": "on",
+      "off": "off",
+      "maxValue": "",
+      "unit": "",
+      "id": 3
+    }
+  ],
+  "users": [
+    {
+      "username": "bob",
+      "email": "rbeloncle@gmail.com",
+      "password": "test123pp",
+      "isVerified": true,
+      "picture": [],
+      "role": "Admin",
+      "color": "#b48d8d",
+      "id": 1
+    }
+  ]
+}
